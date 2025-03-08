@@ -25,6 +25,7 @@ const Home = () => {
             <div className='more-cards'>
                 <TitleCards />
                 <TitleCards />
+                <TitleCards />
             </div>
         </div>
     )
