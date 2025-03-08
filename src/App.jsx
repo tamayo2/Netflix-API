@@ -1,7 +1,11 @@
+import Home from './pages/Home/Home.jsx';
+
 const App = () => {
     return (
-        <div>HOLAAAAAA CLON DE NETFLIX</div>
+        <div>
+            <Home />
+        </div>
     )
 }
 
-export default App
+export default App;
